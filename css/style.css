@@ -31,8 +31,10 @@ p{
 
 div img{
     width:100%;
+    border-radius:8px;
     display:block;
     margin:auto;
+    border: solid 2px #0000FF;
 }
 
 div{

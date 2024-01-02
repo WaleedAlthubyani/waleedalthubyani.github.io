@@ -46,7 +46,7 @@ div{
 
 @media all and (min-width:772px){
     div{
-        width: 45vw;
+        width: 45%;
     }
     div img{
         max-height: 30vh;

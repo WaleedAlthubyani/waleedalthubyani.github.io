@@ -44,7 +44,20 @@ div{
 }
 
 
+@media all and (min-width:772){
+    div{
+        width: 45vw;
+    }
+    img{
+        max-height: 30vh;
+    }
+}
 
+@media all and (min-width: 998){
+    div{
+        width: 30vw;
+    }
+}
 
 
 

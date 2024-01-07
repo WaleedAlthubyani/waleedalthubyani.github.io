@@ -1,0 +1,13 @@
+body{
+  text-align:center;
+}
+.grid{
+  display: grid;
+  gap: 10px;
+}
+
+figure{
+  width:fit-content;
+  border:4px solid;
+  border-radius: 15px 15px 0px 0px;
+}
